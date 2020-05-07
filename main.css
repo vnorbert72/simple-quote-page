@@ -14,6 +14,10 @@ body {
   background-size: cover;
   color: #333;
 }
+#article{
+  width: auto;
+  height: 90%;
+}
 
 .wrapper {
   padding-top: 4rem;
@@ -31,4 +35,16 @@ body {
   font-family: 'Crimson Text', serif;
   font-size: 1.5rem;
   font-style: italic;
+}
+
+
+
+
+/*  =========== Footer style =================  */
+
+#footer { 
+  display: block;
+  bottom: 0;
+  
+  
 }
