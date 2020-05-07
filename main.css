@@ -16,12 +16,11 @@ body {
 }
 #article{
   width: auto;
-  height: 90%;
+  height: 0%;
 }
 .zsani {
   font-size: 2rem;
   font-family: cursive;
-  padding: 3.6rem 0 0 0;
 }
 .zsani:hover {
   color: red;
@@ -68,6 +67,5 @@ body {
 #footer { 
   display: block;
   bottom: 0;
-  
   
 }
